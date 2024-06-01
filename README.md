@@ -33,7 +33,7 @@ This project demonstrates a comprehensive store data analysis using Microsoft Ex
 
 ## Screenshots
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard1.jpg)
 *An example of the interactive dashboard showcasing various metrics and charts.*
 
 ## Conclusion
